@@ -154,7 +154,7 @@ FileNotFoundError: best.pt not found
 |---------|---------|
 | Kiến trúc | YOLOv8s |
 | Dataset | HardHat-Vest Dataset v3 |
-| Số ảnh train | ~2.600 ảnh |
+| Số ảnh train | ~23.000 ảnh |
 | Epochs | 50 |
 | Image size | 416×416 |
 | mAP@50 | ~87.4% |
