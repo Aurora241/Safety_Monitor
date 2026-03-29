@@ -2,6 +2,11 @@
 
 Hệ thống tự động phát hiện vi phạm trang bị bảo hộ lao động (PPE) tại công trường sử dụng **YOLOv8** và **Streamlit**.
 
+Chú ý! 
+Muốn mô hình mạnh mẽ, detection chính xác hơn, nên sửa lại số epoch lên 100 (Nếu nền tảng đủ mạnh và có nhiều thời gian). 
+File model là từ notebook đã chạy mà ra, nếu muốn có file để báo cáo nên chạy lại để hiện kết quả chính xác.
+Nếu dùng nền tảng khuyên dùng Notebook của Kaggle (Phải xác thực tài khoản), có 30h free dùng GPU T4. Colab sẽ giới hạn thời gian tầm 2-3 tiếng dễ bị ngắt kết nối và phải chạy lại từ đầu (Tôi đã bị :)))
+Chúc may mắn !
 ---
 
 ## 📋 Tính năng
